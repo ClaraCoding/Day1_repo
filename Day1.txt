@@ -5,12 +5,12 @@ créer un fichier de code collaboratif
 
 
 2-créer le fichier en local (visual studio code)
-git init
-git add
-git commit
+git init = génération d'un dossier git
+git add = ajout d'un fichier git
+git commit = prise en compte des modifications du fichier
 
 3-charger les informations locales sur le fichier en ligne
-git add remote + lien
+git add remote origin + lien
 git pull
 git push
 
