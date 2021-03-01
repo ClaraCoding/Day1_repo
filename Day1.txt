@@ -1,0 +1,18 @@
+Ce que j'ai appris =
+créer un fichier de code collaboratif
+
+1-créer le fichier en ligne (github.com)
+
+
+2-créer le fichier en local (visual studio code)
+git init
+git add
+git commit
+
+3-charger les informations locales sur le fichier en ligne
+git add remote + lien
+git pull
+git push
+
+
+4-partager le fichier (le cas échéant)
